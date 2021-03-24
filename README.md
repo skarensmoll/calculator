@@ -19,6 +19,9 @@ Experimenting with SSR React and nodejs, aditionally making use of advance featu
 ## Intesting facts
  - Using VIM and Visual Code
 
+## Unit testing
+ - Jest
+
 
 
 
